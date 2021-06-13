@@ -1,0 +1,12 @@
+[
+    {"vulnerability": "Source Injection",
+<<<<<<< HEAD
+    "sources": ["b", "t", "c"],
+    "sanitizers": [],
+    "sinks": ["c", "e"]}
+=======
+    "sources": ["b", "t"],
+    "sanitizers": [],
+    "sinks": ["e"]}
+>>>>>>> 3589eb6 (Implemented member expressions)
+]

@@ -1,0 +1,6 @@
+[
+    {"vulnerability": "Source Injection",
+    "sources": ["b", "s"],
+    "sanitizers": [],
+    "sinks": ["x"]}
+]
